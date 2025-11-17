@@ -1,4 +1,4 @@
-## BPI-Programmer-Bi-Year-Dashboard
+## BPI Programmer Bi-Year Dashboard
 <img width="1430" height="572" alt="image" src="https://github.com/user-attachments/assets/503ddf8a-f6e9-4296-8ac8-d24c8fcb88f8" />
 
 
