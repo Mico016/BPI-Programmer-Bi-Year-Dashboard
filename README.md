@@ -4,7 +4,7 @@
 
 <br>
 <h2>Overview</h2>
-This dashboard analyzez the monthly performance across programmers based on key metrics such as number of task, efficiency, Jira Errors, post deployment errors, reliability, etc. It enables  the team leaders to identify th eperformance gaps, recognize struggling programmers to design a targeted,sustainable and effective coaching plan. 
+This dashboard analyzez the monthly performance across programmers based on key metrics such as number of task, efficiency, Jira Errors, post deployment errors, reliability, etc. It enables  the team leaders to identify the performance gaps, recognize struggling programmers to design a targeted,sustainable and effective coaching plan. 
 All visuals and insights are powered by raw scorecard data, including productivity metrics, reliability scores, and working hours. The report feautures a clean visual, interactive slicers, and optimized DAX calculations aligned with the organization’s actual scoring methodology.
 
 <br>
